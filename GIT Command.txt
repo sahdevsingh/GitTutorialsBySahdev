@@ -12,3 +12,5 @@ git rm -cached fileName
 git reset --hard : remove change from working dir and stage area
 git diff : difference b/w working dir and stage area
 git diff --staged : difference b/w stage area and Local repository
+
+branch is level name of commit.It always have on Head commit.
