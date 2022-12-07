@@ -1,0 +1,8 @@
+git log -- to history -- only commit message is shown here
+git log --stat -- to see changes in file of every commit
+git diff commitid1 commitid2
+git clone remoteRepositoryLink
+git config --global color.ui auto -- to see changes in green and red
+git checkout commitId  ---> detached Head
+
+git init -- to create empty repository
