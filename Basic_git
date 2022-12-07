@@ -1,0 +1,2 @@
+git remote :: show all remote 
+git remote add origin RemoteURL
