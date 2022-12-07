@@ -6,3 +6,9 @@ git config --global color.ui auto -- to see changes in green and red
 git checkout commitId  ---> detached Head
 
 git init -- to create empty repository
+git status
+git rm -cached fileName
+
+git reset --hard : remove change from working dir and stage area
+git diff : difference b/w working dir and stage area
+git diff --staged : difference b/w stage area and Local repository
