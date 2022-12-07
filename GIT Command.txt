@@ -14,3 +14,15 @@ git diff : difference b/w working dir and stage area
 git diff --staged : difference b/w stage area and Local repository
 
 branch is level name of commit.It always have on Head commit.
+
+git log --oneline
+
+git checkout -b newBranchname
+
+git show commitid -- diff b/w parent commit
+
+git merge master branch2  :: branch2 ---> master
+
+git delete -d branchName  -- to delete branch
+
+git log -n 1 :: only show one commit
